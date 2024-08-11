@@ -19,7 +19,7 @@ To install and run Zipzy, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Zipzy.git
+    git clone https://github.com/Arbitr-ary-ily/Zipzy.git
     cd Zipzy
     ```
 
